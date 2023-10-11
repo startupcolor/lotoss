@@ -1,0 +1,2 @@
+# lotoss
+Biedrība Lotoss
